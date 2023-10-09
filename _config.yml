@@ -1,31 +1,26 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
+title: Hamish Wintle
+description: Hamish Wintle - Independant Digital Marketing Consultant
+taglong: Independant Digital Marketing Consultant
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https:""//cvless.netlify.app""
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/hamishwintle/hamishwintle.github.io
 
 # author settings
 
 author:
-  name: Place Holder
+  name: Hamish Wintle
   email: username@domain.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
   linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
-
+  
 # build settings
 
 exclude:
